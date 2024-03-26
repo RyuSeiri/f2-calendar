@@ -4,20 +4,20 @@
     "name": "Sakhir",
     "round": "1",
     "race": {
-      "start_time": "TBC",
-      "end_time": "TBC"
+      "start_time": "2024-03-02",
+      "end_time": "2024-03-02"
     },
     "sprint": {
-      "start_time": "TBC",
-      "end_time": "TBC"
+      "start_time": "2024-03-01",
+      "end_time": "2024-03-01"
     },
     "qualifying": {
-      "start_time": "TBC",
-      "end_time": "TBC"
+      "start_time": "2024-02-29",
+      "end_time": "2024-02-29"
     },
     "practice": {
-      "start_time": "TBC",
-      "end_time": "TBC"
+      "start_time": "2024-02-29",
+      "end_time": "2024-02-29"
     }
   },
   {
@@ -25,20 +25,20 @@
     "name": "Jeddah",
     "round": "2",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-09",
+        "end_time": "2024-03-09"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-08",
+        "end_time": "2024-03-08"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-07",
+        "end_time": "2024-03-07"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-07",
+        "end_time": "2024-03-07"
       }
   },
   {
@@ -46,20 +46,20 @@
     "name": "Melbourne",
     "round": "3",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-24",
+        "end_time": "2024-03-24"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-23",
+        "end_time": "2024-03-23"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-22",
+        "end_time": "2024-03-22"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-03-22",
+        "end_time": "2024-03-22"
       }
   },
   {
@@ -67,20 +67,20 @@
     "name": "Imola",
     "round": "4",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-19",
+        "end_time": "2024-05-19"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-18",
+        "end_time": "2024-05-18"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-17",
+        "end_time": "2024-05-17"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-17",
+        "end_time": "2024-05-17"
       }
   },
   {
@@ -88,20 +88,20 @@
     "name": "Monte Carlo",
     "round": "5",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-26",
+        "end_time": "2024-05-26"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-25",
+        "end_time": "2024-05-25"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-24",
+        "end_time": "2024-05-24"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-05-23",
+        "end_time": "2024-05-23"
       }
   },
   {
@@ -109,20 +109,20 @@
     "name": "Barcelona",
     "round": "6",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-23",
+        "end_time": "2024-06-23"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-22",
+        "end_time": "2024-06-22"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-21",
+        "end_time": "2024-0063-21"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-21",
+        "end_time": "2024-06-21"
       }
   },
   {
@@ -130,20 +130,20 @@
     "name": "Spielberg",
     "round": "7",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-30",
+        "end_time": "2024-06-30"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-29",
+        "end_time": "2024-06-29"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-28",
+        "end_time": "2024-06-28"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-06-28",
+        "end_time": "2024-06-28"
       }
   },
   {
@@ -151,20 +151,20 @@
     "name": "Silverstone",
     "round": "8",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-07",
+        "end_time": "2024-07-07"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-06",
+        "end_time": "2024-07-06"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-05",
+        "end_time": "2024-07-05"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-05",
+        "end_time": "2024-07-05"
       }
   },
   {
@@ -172,20 +172,20 @@
     "name": "Budapest",
     "round": "9",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-21",
+        "end_time": "2024-07-21"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-20",
+        "end_time": "2024-07-20"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-19",
+        "end_time": "2024-07-19"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-19",
+        "end_time": "2024-07-19"
       }
   },
   {
@@ -193,20 +193,20 @@
     "name": "Spa Francorchamps",
     "round": "10",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-28",
+        "end_time": "2024-07-28"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-27",
+        "end_time": "2024-07-27"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-26",
+        "end_time": "2024-07-26"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-07-26",
+        "end_time": "2024-07-26"
       }
   },
   {
@@ -214,20 +214,20 @@
     "name": "Monza",
     "round": "11",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-09-01",
+        "end_time": "2024-09-01"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-08-31",
+        "end_time": "2024-08-31"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-08-30",
+        "end_time": "2024-08-30"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-08-30",
+        "end_time": "2024-08-30"
       }
   },
   {
@@ -235,20 +235,20 @@
     "name": "Baku",
     "round": "12",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-09-15",
+        "end_time": "2024-09-15"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-09-14",
+        "end_time": "2024-09-14"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-09-13",
+        "end_time": "2024-09-13"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-09-13",
+        "end_time": "2024-09-13"
       }
   },
   {
@@ -256,20 +256,20 @@
     "name": "Lusail",
     "round": "13",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-12-01",
+        "end_time": "2024-12-01"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-11-30",
+        "end_time": "2024-11-30"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-11-29",
+        "end_time": "2024-11-29"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-11-29",
+        "end_time": "2024-11-29"
       }
   },
   {
@@ -277,20 +277,20 @@
     "name": "Yas Island",
     "round": "14",
     "race": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-12-08",
+        "end_time": "2024-12-08"
       },
       "sprint": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-12-07",
+        "end_time": "2024-12-07"
       },
       "qualifying": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-12-06",
+        "end_time": "2024-12-06"
       },
       "practice": {
-        "start_time": "TBC",
-        "end_time": "TBC"
+        "start_time": "2024-12-06",
+        "end_time": "2024-12-06"
       }
   }
 ]
