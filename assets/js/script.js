@@ -52,7 +52,10 @@ const loadData = async () => {
 function createTime(timeUTC, event) {
   return `<p class='time-line' data-event='${event}'>
       <span class='event'>${event} :</span> 
-      <span class='day'>TBC</span>
+      <span class='day'>${new Date(timeUTC).toLocaleDateString('en-US', {
+        month: "short",
+        day: "numeric",
+      })}</span>
       <span class='time'>TBC</span>
     </p>`;
 }

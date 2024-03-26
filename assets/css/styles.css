@@ -107,8 +107,7 @@ main {
 .race-image {
   align-self: center;
   box-sizing: border-box;
-  min-width: 110px;
-  width: 130px;
+  width: 170px;
   background-image: url(../icons/plus-x1.png);
   padding: 5px;
 }
@@ -143,7 +142,7 @@ main {
 }
 
 .race .event {
-  width: 150px;
+  width: 100px;
 }
 
 .race .day {
@@ -168,6 +167,16 @@ main {
 }
 
 @media screen and (max-width: 768px) {
+  header {
+    font-family: f2;
+    background: linear-gradient(to right, #004267 65%, #0090d0 25%);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+
   main {
     padding: 10px;
   }
@@ -196,7 +205,7 @@ main {
   }
 
   .race .event {
-    width: 125px;
+    width: 100px;
     white-space: nowrap;
   }
 
