@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 });
 
 const loadData = async () => {
-  const response = await fetch(`https://f2-calendar.eu.org/raw/2024.json`);
+  const response = await fetch(`https://f2-calendar.eu.org/raw/2026.json`);
   return await response.json();
 };
 

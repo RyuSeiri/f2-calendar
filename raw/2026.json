@@ -1,0 +1,296 @@
+[
+  {
+    "id": "melbourne",
+    "name": "Melbourne",
+    "round": "1",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "sakhir",
+    "name": "Sakhir",
+    "round": "2",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "jeddah",
+    "name": "Jeddah",
+    "round": "3",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "monaco",
+    "name": "Monaco",
+    "round": "4",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "round": "5",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "spielberg",
+    "name": "Spielberg",
+    "round": "6",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "silverstone",
+    "name": "Silverstone",
+    "round": "7",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "spa-francorchamps",
+    "name": "Spa-Francorchamps",
+    "round": "8",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "budapest",
+    "name": "Budapest",
+    "round": "9",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "monza",
+    "name": "Monza",
+    "round": "10",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "round": "11",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "baku",
+    "name": "Baku",
+    "round": "12",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "lusail",
+    "name": "Lusail",
+    "round": "13",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  },
+  {
+    "id": "yas-island",
+    "name": "Yas Island",
+    "round": "14",
+    "race": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "sprint": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "qualifying": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    },
+    "practice": {
+      "start_time": "TBC",
+      "end_time": "TBC"
+    }
+  }
+]
